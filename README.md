@@ -2,7 +2,7 @@
 
 waveshare electronics
 
-![Waveshare_logo.png](Waveshare_logo.png.png)
+
 
 # Package product
 https://www.waveshare.com/1.8inch-lcd-for-micro-bit.htm
@@ -29,7 +29,7 @@ javascript: LCD_Init()
 Clear the screen to white. Create an buffer on RAM with the resolution size 160*128 and initial it to white.
 
 block: Clear Clear screen and cache.
-javascript: LCD_Init()
+
 
 3.Set the backlight:
 
